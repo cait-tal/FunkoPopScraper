@@ -12,8 +12,8 @@
 <h4>The data is then stored in a csv file and sent to a Google Sheet.</h4>
 <br>
 <h4><em>End Result:</em></h4>
-<img src="funko_pop_example.png" height=500 width=auto alt="Example_img">
+<img src="funko_pop_example.PNG" height=500 width=auto alt="Example_img">
 <br>
 <hr>
-<h4>Feel free to forl and modify the code to search for your Pops!</h4>
+<h4>Feel free to fork and modify the code to search for your Pops!</h4>
 <hr>
